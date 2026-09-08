@@ -3,7 +3,7 @@
 Готово к проверке.
 
 ## Репозиторий
-[https://github.com/neo/webpack-demo](https://github.com/min-lotitor888-max/webpack-demo.git)
+[https://github.com/min-lotitor888-max/webpack-demo.git](https://github.com/min-lotitor888-max/webpack-demo)
 
 ## Описание
 Реализована модульная структура приложения:
